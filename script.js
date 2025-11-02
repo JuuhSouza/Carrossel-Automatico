@@ -29,4 +29,5 @@ const atualizarCarrossel = () => {
 setInterval(() =>{
     incrementarSlide();
     atualizarCarrossel();
-}, 3000); /* temporizador automatico  */
+
+}, 4000); /* temporizador automatico  */
